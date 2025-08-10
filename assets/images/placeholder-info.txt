@@ -1,0 +1,32 @@
+📸 INFORMASI FOTO PLACEHOLDER
+
+Untuk sementara, website akan menggunakan placeholder image dari placeholder.com
+sampai Anda menambahkan foto asli.
+
+## Foto yang Diperlukan:
+
+1. **profile.jpg** - Foto profil Anda (400x500 pixel, format portrait/tegak, ukuran optimal 600x750px)
+2. **project-ecommerce.jpg** - Screenshot proyek e-commerce
+3. **project-portfolio.jpg** - Screenshot proyek portfolio
+4. **project-taskapp.jpg** - Screenshot proyek task management app
+
+## Cara Menambahkan Foto:
+
+1. Simpan foto dengan nama yang sesuai di folder ini
+2. Pastikan format JPG, PNG, atau WebP
+3. Website akan otomatis menggunakan foto lokal
+4. Jika foto tidak ada, akan fallback ke placeholder
+
+## Tips Foto Proyek:
+
+- Gunakan screenshot yang jelas dan menarik
+- Pastikan menampilkan fitur utama proyek
+- Ukuran optimal: 800x600 pixel
+- Kompres foto agar tidak terlalu berat
+
+## Fallback System:
+
+Website sudah dilengkapi dengan sistem fallback:
+- Jika foto profil tidak ada → gunakan placeholder
+- Jika foto proyek tidak ada → foto disembunyikan
+- Tidak ada error atau broken image 
